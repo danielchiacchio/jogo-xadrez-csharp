@@ -2,7 +2,7 @@
 
 Jogo de xadrez para dois jogadores, executado no terminal e desenvolvido como projeto de estudo de C# e programação orientada a objetos.
 
-O projeto acompanha o curso de C# do professor [Nelio Alves](https://github.com/acenelio/xadrez-console). A implementação está sendo construída passo a passo e pode evoluir conforme o avanço nas aulas.
+O projeto acompanha o curso de C# do professor [Nelio Alves](https://github.com/acenelio/xadrez-console). O projeto foi concluído e poderá receber alterações futuras para corrigir eventuais bugs ou implementar melhorias.
 
 ## Funcionalidades
 
